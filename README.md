@@ -40,10 +40,12 @@
 
 
 ### Studying in this moment:
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Nest.JS](https://img.shields.io/badge/-Nest.JS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/c%23-0D1117.svg?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)
+![ .NET ](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&labelColor=0D1117&textColor=0D1117)  
+![Blazor](https://img.shields.io/badge/blazor-0D1117.svg?style=for-the-badge&logo=blazor&labelColor=0D1117&textColor=0D1117)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&&labelColor=0D1117&textColor=0D1117)
+![Redis](https://img.shields.io/badge/redis-0D1117.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ Node.JS ](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
